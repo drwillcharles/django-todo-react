@@ -12,7 +12,7 @@ Built from Digital Ocean tutorial [How To Build a To-Do application Using Django
 To run the Django server:
 ```bash
 cd backend
-python manage.py runserver
+poetry run python manage.py runserver
 ```
 
 ### Frontend
